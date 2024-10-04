@@ -20,4 +20,4 @@
 
 No dudes en crear un issue en GitHub si encuentras un error o quieres sugerir una nueva función. Tenemos un servidor de Discord donde otros miembros de la comunidad pueden ayudarte:
 
-[![Servidor de Discord de Almas&Palmas](https://discordapp.com/api/guilds/1201522867901313045/widget.png?style=banner3)](https://discord.gg/nY3jw5wR)
+[![Servidor de Discord de Almas&Palmas](https://discordapp.com/api/guilds/1290096885821870130/widget.png?style=banner3)](https://discord.gg/nY3jw5wR)
